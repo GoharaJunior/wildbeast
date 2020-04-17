@@ -22,6 +22,7 @@ img {
   border-radius: 5px;
 }
 
+
 /*===GRID GERAL===*/
 .estrutura {
   display: grid;
@@ -139,9 +140,9 @@ p {
 }
 
 .titulo span {
-  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 0.875em;
   font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /*===CARACTERISTICAS===*/
 .caracteristicas {
@@ -182,28 +183,40 @@ p {
   top: 2px;
 }
 
+.destaque {
+  font-size: 0.875em;
+  color: #B07DFB;
+  max-width: 16em;
+}
 
+.citacao, .atributos {
+  align-self: start;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 0px rgba(44, 44, 44,0.15);
+  background: linear-gradient(135deg, #8844ee, #B07DFB);
+}
 
+.citacao p {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+.atributos li {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.125em;
+  padding: 15px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.atributos li + li {
+  border-top: 2px solid #B07DFB;
+}
 
 
 
