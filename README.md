@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="150px" alt="Launchbase" src="https://user-images.githubusercontent.com/57417305/79580443-5f955900-809f-11ea-8c07-fb997480cacb.png" />
+    <img width="150px" alt="CSS Grid - LOGO" src="https://user-images.githubusercontent.com/57417305/79580443-5f955900-809f-11ea-8c07-fb997480cacb.png" />
 </h1>
 
 <h1 align="center">
